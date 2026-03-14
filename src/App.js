@@ -85,7 +85,7 @@ const BirthdayWishPage = () => {
             {/* Subtitle */}
             <div className="subtitle-section">
               <p className="subtitle">
-                <span className="highlight">Mr. Akeel Ahmad</span>
+                <span className="highlight">Dear Anjali Gupta</span>
               </p>
               <div className="icons-row">
                 <Sparkles className="icon-sparkle" />
